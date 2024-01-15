@@ -1,2 +1,2 @@
-Esse arquivo é somente um teste
+Esse arq é somente um teste
 fjdshj
